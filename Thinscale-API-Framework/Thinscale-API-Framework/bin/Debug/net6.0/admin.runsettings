@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<MaxCpuCount>1</MaxCpuCount>
+		<ResultsDirectory>.\TestResults</ResultsDirectory>
+		<TargetPlatform>x86</TargetPlatform>
+	</RunConfiguration>
+
+	<!-- Parameters used by tests at runtime -->
+	<TestRunParameters>
+
+		<!-- admin -->
+		<Parameter name="Url" value="http://10.81.49.78/tstmgmt" />
+		<Parameter name="Username" value="Administrator" />
+		<Parameter name="Password" value="IpnXwGWqXb0le4qxYrqJHQ==" />
+		<Parameter name="AuthCode" value="tpvvvq7CsV\u002BsFF8GxXabvGhYTYjvXUafkRzOAjknh9AJuZWCVZd7UTcuyHz7al1fGarA6MHbfwn6Varmh/gTjm5zcokGPManMjnWBH6HqlZK3aRAZ1tnfAqiEuIRTlAS1qq4V0ZV5\u002BDsVvxgVTBvKvIadaOKKqlfuFUjj5M1wwL7NoiCz6rswbBZlXD27mf5uCKjCgbjF3H5gWyWn3SAel042M7jsMd999x50QX5VPucWL7bLNbm638igpEaLANKGPSabJ1CIMNE6vxCwa0wJov87U7G3raww/815uuV/o4lS6fmhm6v/w0kLjYfs2BzOaRNPusR4fVDxEeA/fWk3HmOfzxeUAlvH0HZMnZycLFrSBOKHt9jpw2CCMA0UMG/HNzABUQR9xyS8CtmjOj7jzGKzOanWVt\u002BTXg4ap2pSy8QUk2pHATCzUWXBPKM7UX6WP4CJ3v3ba4qUHSzYe3Icvbke5LohI3J/steT04k4iGsL52QbD6yc47S2\u002BClcj26eIIWEyPdF1YbzUjXeFBrqiOIO8mKhZgE1uknEo43MfFmNPE4hoSBuPQkzFIA9lSHJREeyCoBbcrdjPI7R87UGG29d6l1Eqxc6kNK9nvjj4Q3v\u002BuHqbhDgXz3FQXkpVzJUWyjUTYXMaVXnrJxLwKDbIIPy6U1BPEPcqRVoOlOuUM=" />
+	
+	</TestRunParameters>
+</RunSettings>
